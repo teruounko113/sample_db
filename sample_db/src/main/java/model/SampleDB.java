@@ -9,13 +9,13 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class sampleDB
  */
-public class sampleDB extends HttpServlet {
+public class SampleDB extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public sampleDB() {
+    public SampleDB() {
         super();
         // TODO Auto-generated constructor stub
     }
